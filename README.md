@@ -1,4 +1,4 @@
-<img src="banner.jpg" width="100%" />
+
 
 <div align="center">
   <h1>Hey! I'm Shourya Patil 👋</h1>
