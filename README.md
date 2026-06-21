@@ -1,4 +1,4 @@
-<img src="travel-license.jpg" width="420" />
+<img src="cat.jpg" width="420" />
 
 <div align="center">
   <h1>Hey! I'm Shourya Patil 👋</h1>
