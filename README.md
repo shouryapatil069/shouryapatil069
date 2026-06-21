@@ -1,4 +1,4 @@
-<img src="cat.jpg" width="420" />
+<img src="cat.jpg" width="596.78*174.7" />
 
 <div align="center">
   <h1>Hey! I'm Shourya Patil 👋</h1>
