@@ -14,11 +14,10 @@ I enjoy turning ideas into real projects using modern web technologies, AI tools
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **Web Development Projects**
-- 🌱 I’m currently learning **React, JavaScript, AI Tools & Full Stack Development**
-- 🎓 Student Developer from **Nagpur, India**
-- 💻 I love building clean UI and smooth user experiences
-- ⚡ Fun fact: *I build projects first, then learn deeply while debugging*
+- 🔭 I’m currently working on Web Development Projects
+- 🌱 I’m currently learning React, JavaScript, AI Tools & Full Stack Development
+- 🎓I'm currently pursuing my B.Tech Degree in Data Science
+- ⚡ Fun fact: *Iam BATMAN*
 
 ---
 
