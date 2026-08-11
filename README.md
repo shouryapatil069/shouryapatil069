@@ -329,27 +329,20 @@ Learning cloud computing concepts, deployment workflows and scalable application
 
 ## GitHub Analytics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shouryapatil069&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED" alt="GitHub Statistics"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=shouryapatil069&hide_border=true&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=C4B5FD&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=9CA3AF" alt="GitHub Streak"/>
-
-<br/>
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouryapatil069&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" alt="Top Languages"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shouryapatil069&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=shouryapatil069&hide_border=true&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=C4B5FD&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=9CA3AF" alt="GitHub Streak" height="165"/>
+  <br/><br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shouryapatil069&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
 
 ---
 
 ## GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shouryapatil069&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub Trophies"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=shouryapatil069&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies"/>
+</p>
 
 ---
 
